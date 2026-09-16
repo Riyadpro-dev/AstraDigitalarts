@@ -1,0 +1,6 @@
+{
+  "name": "Astra Digital Arts",
+  "description": "Cinematic luxury digital arts studio concept defining visual narrative, art direction, materials, lighting, typography, and motion language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
